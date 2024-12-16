@@ -20,7 +20,7 @@ header {
 }
 
  h1 {
-    font-size: 2.5em;/* larger font size for the heade */
+    font-size: 16px;/* larger font size for the heade */
     letter-spacing: 1.5px; /* letter spacing */
     font-weight: 500;
     color: #fff;
@@ -51,9 +51,9 @@ main {
 .movie h2 {
     background-color: #585858;/* dark background for the movie title*/
     color: white;
-    padding: 15px;
+    padding: 24px;
     text-align: center;/*center the title*/
-    font-size: 1.5em;
+    font-size: m;
     letter-spacing: 1px;
     font-weight: 500;
 }
@@ -64,14 +64,14 @@ main {
 }
 
 .movie-info h2 {
-    font-size: 1.5em; 
+    font-size: 24px; 
     margin-bottom: 10px;/* space for the title*/
     font-weight: 500;
     color: white;/* white text color*/
 }
 
 p {
-    font-size: 1em;
+    font-size: 16px;
     color: white;/* white color text for the descirption*/
 }
 
